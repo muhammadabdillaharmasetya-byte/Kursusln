@@ -141,7 +141,7 @@ go run .
 atau
 
 ```bash
-go run main.go
+go run c.go
 ```
 
 ---
